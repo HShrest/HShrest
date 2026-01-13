@@ -53,13 +53,14 @@
 ---
 
 ## 📊 GitHub Interactive Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HShrest&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HShrest&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-shrest&show_icons=true&theme=radical" alt="Harsh's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-shrest&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=HShrest&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-shrest&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
