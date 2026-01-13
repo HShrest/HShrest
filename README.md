@@ -52,19 +52,22 @@
 
 ---
 
-## 📊 GitHub Interactive Stats
+## 📊 My GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-shrest&show_icons=true&theme=radical" alt="Harsh's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-shrest&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HShrest&theme=radical" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-shrest&theme=radical" alt="GitHub Streak" width="100%" />
+  <img src="https://img.shields.io/github/followers/HShrest?label=Followers&style=for-the-badge&color=2ecc71" />
+  <img src="https://img.shields.io/github/stars/HShrest?label=Stars&style=for-the-badge&color=f1c40f" />
+  <img src="https://img.shields.io/github/repo-count/HShrest?label=Repositories&style=for-the-badge&color=3498db" />
 </p>
 
 ---
 
+## 📅 Contribution Activity
 <p align="center">
-  <b>Feel free to explore my repositories and connect for collaborations!</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=HShrest&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HShrest&layout=compact&theme=radical" width="48%" />
 </p>
