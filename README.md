@@ -50,14 +50,6 @@ Python | ML | Deep Learning | DSA
 - Perceptron (LS, NLS datasets)
 - MLP & CNN on MNIST
 - Performance analysis using confusion matrix & accuracy
-
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HShrest&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HShrest&layout=compact&theme=tokyonight)
-
 ---
 
 ## Connect with Me
